@@ -1,0 +1,39 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="leading" />
+      <item value="To allow subtypes of non-serializable classes to be serialized, the * subtype may assume responsibility for saving and restoring the * state of the supertype's public, protected, and (if accessible) * package fields." />
+      <item value="preempting StackOverflowError" />
+      <item value="primitive" />
+      <item value="Determines if the class or interface represented by this * {@code Class} object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * {@code Class} parameter" />
+      <item value="Assign" />
+      <item value="bidirectional reordering" />
+      <item value="bidirectional" />
+      <item value="Uses the value in &lt;CODE&gt;setTotalWidth()&lt;/CODE&gt; in * &lt;CODE&gt;Document.add()&lt;/CODE&gt;" />
+      <item value="explicit" />
+      <item value="Check if the value passes a validation by Validator.validate()" />
+      <item value="The packaging for this project did not assign a file to the build artifact" />
+      <item value="This logging filter is not highly optimized for now" />
+      <item value="abnormally" />
+      <item value="Silently" />
+      <item value="Quietly" />
+      <item value="initialize" />
+      <item value="Backport" />
+      <item value="Illegal" />
+      <item value="priority" />
+      <item value="this is ugly, you have a better way speak up" />
+      <item value="materialize" />
+      <item value="compromised" />
+      <item value="expire At" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
