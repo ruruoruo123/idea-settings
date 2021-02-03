@@ -9,11 +9,6 @@
           <token>dfcedf93dfc8dfcbdfcfdf92dfcfdfcedf9cdfcfdf9adfcbdf92dfccdf98df99df9bdf9cdfccdfc8df9bdf99df9cdfccdf9bdf98dfccdf99dfc8df98df9bdf9ddf9cdfcfdfcbdfc9df9adf9bdfcbdf92</token>
           <option name="name" value="sf-sonar" />
         </SonarQubeServer>
-        <SonarQubeServer>
-          <option name="hostUrl" value="http://10.206.56.80:9000" />
-          <token>df93dfcfdf9fdfcfdf9edf9cdf9fdfcfdfcfdf9adfc8df93df9bdf9bdfcedf9bdfc9df9adf9adfccdf93dfc9df9cdf93df9adf93df9bdf99dfc8dfc8dfccdfcedfcbdf92dfcbdf9adfc9df9edfcbdfcc</token>
-          <option name="name" value="10.206.56.80:9000" />
-        </SonarQubeServer>
       </list>
     </option>
     <rules />
