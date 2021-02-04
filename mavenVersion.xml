@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" vmOptions="-Xms800m -Xmx800m" embedderJdk="11" mavenHome="D:\apps\IntelliJ IDEA 2020.1.4\plugins\maven\lib\maven3" loggingLevel="DEBUG" />
+  <component name="MavenVersion" vmOptions="-Xms800m -Xmx800m" embedderJdk="11" mavenHome="D:\apps\apache-maven-3.6.1" loggingLevel="DEBUG" />
 </application>
