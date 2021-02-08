@@ -1,5 +1,7 @@
 <application>
   <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
+    <option name="inactiveTimeout" value="10" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
@@ -8,5 +10,6 @@
     <entry key="ide.suppress.double.click.handler" value="true" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="SBT.system.in.process" value="true" />
+    <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
 </application>
