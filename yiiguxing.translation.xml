@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The iterators returned by all of this class's &quot;collection view methods&quot; are &lt;i&gt;fail-fast&lt;i&gt;: if the map is structurally modified at any time after the iterator is created, in any way except through the iterator's own &lt;tt&gt;remove&lt;tt&gt; method, the iterator will throw a {@link ConcurrentModificationException}. Thus, in the face of concurrent modification, the iterator fails quickly and cleanly, rather than risking arbitrary, non-deterministic behavior at an undetermined time in the future." />
+      <item value="Note that this implementation is not synchronized.&lt;strong&gt; If multiple threads access a hash map concurrently, and at least one of the threads modifies the map structurally, it &lt;i&gt;must&lt;i&gt; be synchronized externally. (A structural modification is any operation that adds or deletes one or more mappings; merely changing the value associated with a key that an instance already contains is not a structural modification.) This is typically accomplished by synchronizing on some object that naturally encapsulates the map." />
       <item value="denote" />
       <item value="leading" />
       <item value="To allow subtypes of non-serializable classes to be serialized, the * subtype may assume responsibility for saving and restoring the * state of the supertype's public, protected, and (if accessible) * package fields." />
@@ -29,12 +31,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614164356772" />
+    <option name="lastTrimTime" value="1614907831192" />
   </component>
 </application>
