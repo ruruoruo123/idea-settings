@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suppose that the garbage collector determines at a certain point in time that an object is &lt;a href=&quot;package-summary.htmlreachability&quot;&gt;softly reachable&lt;a&gt;. At that time it may choose to clear atomically all soft references to that object and all soft references to any other softly-reachable objects from which that object is reachable through a chain of strong references. At the same time or at some later time it will enqueue those newly-cleared soft references that are registered with reference queues." />
       <item value="IO-bound" />
       <item value="computational" />
       <item value="The iterators returned by all of this class's &quot;collection view methods&quot; are &lt;i&gt;fail-fast&lt;i&gt;: if the map is structurally modified at any time after the iterator is created, in any way except through the iterator's own &lt;tt&gt;remove&lt;tt&gt; method, the iterator will throw a {@link ConcurrentModificationException}. Thus, in the face of concurrent modification, the iterator fails quickly and cleanly, rather than risking arbitrary, non-deterministic behavior at an undetermined time in the future." />
@@ -33,12 +34,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615537311990" />
+    <option name="lastTrimTime" value="1616568302053" />
   </component>
 </application>
