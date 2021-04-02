@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eager" />
+      <item value="&lt;p&gt;May be used on any class directly or indirectly annotated with {@link org.springframework.stereotype.Component @Component} or on methods annotated with {@link Bean @Bean}" />
       <item value="Assignable" />
       <item value="the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class" />
       <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}." />
@@ -37,12 +39,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616568302053" />
+    <option name="lastTrimTime" value="1617334263457" />
   </component>
 </application>
