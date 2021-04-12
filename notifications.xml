@@ -1,6 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="BetterIntelliJ" displayType="STICKY_BALLOON" />
+    <notification groupId="BetterIntelliJ" displayType="NONE" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
     <notification groupId="mns_log" displayType="NONE" shouldLog="false" />
   </component>
