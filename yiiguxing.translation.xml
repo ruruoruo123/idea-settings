@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="primitive" />
+      <item value="represent" />
+      <item value="variable" />
+      <item value="assigned" />
+      <item value="widenings" />
       <item value="eager" />
       <item value="&lt;p&gt;May be used on any class directly or indirectly annotated with {@link org.springframework.stereotype.Component @Component} or on methods annotated with {@link Bean @Bean}" />
       <item value="Assignable" />
@@ -16,7 +21,6 @@
       <item value="leading" />
       <item value="To allow subtypes of non-serializable classes to be serialized, the * subtype may assume responsibility for saving and restoring the * state of the supertype's public, protected, and (if accessible) * package fields." />
       <item value="preempting StackOverflowError" />
-      <item value="primitive" />
       <item value="Determines if the class or interface represented by this * {@code Class} object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * {@code Class} parameter" />
       <item value="Assign" />
       <item value="bidirectional reordering" />
@@ -45,6 +49,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617334263457" />
+    <option name="lastTrimTime" value="1618798067941" />
   </component>
 </application>
