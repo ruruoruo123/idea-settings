@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Flatten" />
       <item value="set Accessible Workaround" />
       <item value="primitive" />
       <item value="represent" />
@@ -44,12 +45,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619856946837" />
+    <option name="lastTrimTime" value="1620718536165" />
   </component>
 </application>
