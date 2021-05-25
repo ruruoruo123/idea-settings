@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PLANET" />
+      <item value="POSTNET" />
+      <item value="Gets the bar multiplier for wide bars" />
       <item value="The bar multiplier for wide bars or the distance between bars for Postnet and Planet" />
       <item value="Sets the amount of ink spreading" />
       <item value="Flatten" />
@@ -47,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
