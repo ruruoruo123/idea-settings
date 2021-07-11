@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.sf-express.com/" />
+          <token>dfcedf93dfc8dfcbdfcfdf92dfcfdfcedf9cdfcfdf9adfcbdf92dfccdf98df99df9bdf9cdfccdfc8df9bdf99df9cdfccdf9bdf98dfccdf99dfc8df98df9bdf9ddf9cdfcfdfcbdfc9df9adf9bdfcbdf92</token>
+          <option name="name" value="sf-sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="PROXY_HOST" value="127.0.0.1" />
+    <option name="PROXY_PORT" value="7891" />
+    <option name="PROXY_EXCEPTIONS" value="192.168.*, 127.0.0.1, [::1], *.sf-express.com, *.aliyun.com, jcenter.bintray.com" />
+  </component>
+</application>

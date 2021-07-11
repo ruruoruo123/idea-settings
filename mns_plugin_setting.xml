@@ -1,0 +1,9 @@
+<application>
+  <component name="me.bytebeats.ui.AppSettingState">
+    <option name="dailyFunds" value="320007;005968;005827" />
+    <option name="hiddenMode" value="true" />
+    <option name="shStocks" value="600036;000338" />
+    <option name="stockSymbol" value="sz399006" />
+    <option name="szStocks" value="002352;000027" />
+  </component>
+</application>

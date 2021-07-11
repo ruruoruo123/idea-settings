@@ -1,0 +1,61 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="PLANET" />
+      <item value="POSTNET" />
+      <item value="Gets the bar multiplier for wide bars" />
+      <item value="The bar multiplier for wide bars or the distance between bars for Postnet and Planet" />
+      <item value="Sets the amount of ink spreading" />
+      <item value="Flatten" />
+      <item value="set Accessible Workaround" />
+      <item value="primitive" />
+      <item value="represent" />
+      <item value="variable" />
+      <item value="assigned" />
+      <item value="widenings" />
+      <item value="eager" />
+      <item value="&lt;p&gt;May be used on any class directly or indirectly annotated with {@link org.springframework.stereotype.Component @Component} or on methods annotated with {@link Bean @Bean}" />
+      <item value="Assignable" />
+      <item value="the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class" />
+      <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}." />
+      <item value="initialize" />
+      <item value="Suppose that the garbage collector determines at a certain point in time that an object is &lt;a href=&quot;package-summary.htmlreachability&quot;&gt;softly reachable&lt;a&gt;. At that time it may choose to clear atomically all soft references to that object and all soft references to any other softly-reachable objects from which that object is reachable through a chain of strong references. At the same time or at some later time it will enqueue those newly-cleared soft references that are registered with reference queues." />
+      <item value="IO-bound" />
+      <item value="computational" />
+      <item value="The iterators returned by all of this class's &quot;collection view methods&quot; are &lt;i&gt;fail-fast&lt;i&gt;: if the map is structurally modified at any time after the iterator is created, in any way except through the iterator's own &lt;tt&gt;remove&lt;tt&gt; method, the iterator will throw a {@link ConcurrentModificationException}. Thus, in the face of concurrent modification, the iterator fails quickly and cleanly, rather than risking arbitrary, non-deterministic behavior at an undetermined time in the future." />
+      <item value="Note that this implementation is not synchronized.&lt;strong&gt; If multiple threads access a hash map concurrently, and at least one of the threads modifies the map structurally, it &lt;i&gt;must&lt;i&gt; be synchronized externally. (A structural modification is any operation that adds or deletes one or more mappings; merely changing the value associated with a key that an instance already contains is not a structural modification.) This is typically accomplished by synchronizing on some object that naturally encapsulates the map." />
+      <item value="denote" />
+      <item value="leading" />
+      <item value="To allow subtypes of non-serializable classes to be serialized, the * subtype may assume responsibility for saving and restoring the * state of the supertype's public, protected, and (if accessible) * package fields." />
+      <item value="preempting StackOverflowError" />
+      <item value="Determines if the class or interface represented by this * {@code Class} object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * {@code Class} parameter" />
+      <item value="Assign" />
+      <item value="bidirectional reordering" />
+      <item value="bidirectional" />
+      <item value="Uses the value in &lt;CODE&gt;setTotalWidth()&lt;/CODE&gt; in * &lt;CODE&gt;Document.add()&lt;/CODE&gt;" />
+      <item value="explicit" />
+      <item value="Check if the value passes a validation by Validator.validate()" />
+      <item value="The packaging for this project did not assign a file to the build artifact" />
+      <item value="This logging filter is not highly optimized for now" />
+      <item value="abnormally" />
+      <item value="Silently" />
+      <item value="Quietly" />
+      <item value="Backport" />
+      <item value="Illegal" />
+      <item value="priority" />
+      <item value="this is ugly, you have a better way speak up" />
+      <item value="materialize" />
+      <item value="compromised" />
+      <item value="expire At" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1621912912242" />
+  </component>
+</application>
