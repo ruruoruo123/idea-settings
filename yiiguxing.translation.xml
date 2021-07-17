@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compatiable" />
       <item value="PLANET" />
       <item value="POSTNET" />
       <item value="Gets the bar multiplier for wide bars" />
@@ -50,12 +51,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621912912242" />
+    <option name="lastTrimTime" value="1625639189353" />
   </component>
 </application>
