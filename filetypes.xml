@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="zmq说明" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
+      <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
