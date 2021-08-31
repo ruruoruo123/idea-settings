@@ -1,12 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Returns the &lt;a href=&quot;http:www.xycoon.comcoefficient1.htm&quot;&gt; coefficient of multiple determination&lt;a&gt;, usually denoted r-square" />
-      <item value="Returns the &lt;a href=&quot;http:www.xycoon.comSumOfSquares.htm&quot;&gt; sum of squared errors&lt;a&gt; (SSE) associated with the regression model" />
-      <item value="Returns the sum of squared deviations of the y values about their mean" />
-      <item value="eturns the sum of squared deviations of the predicted y values about their mean (which equals the mean of y)" />
-      <item value="Returns the covariance between regression parameters i and j" />
-      <item value="standard error of the parameter estimates" />
+      <item value="This logging filter is not highly optimized for now" />
+      <item value="Return the Virtual Machine's Class object for the named primitive type" />
       <item value="LITERAL" />
       <item value="括号" />
       <item value="compatiable" />
@@ -45,21 +41,25 @@
       <item value="explicit" />
       <item value="Check if the value passes a validation by Validator.validate()" />
       <item value="The packaging for this project did not assign a file to the build artifact" />
-      <item value="This logging filter is not highly optimized for now" />
       <item value="abnormally" />
       <item value="Silently" />
       <item value="Quietly" />
       <item value="Backport" />
       <item value="Illegal" />
+      <item value="priority" />
+      <item value="this is ugly, you have a better way speak up" />
+      <item value="materialize" />
+      <item value="compromised" />
+      <item value="expire At" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628693052542" />
+    <option name="lastTrimTime" value="1629721020843" />
   </component>
 </application>
