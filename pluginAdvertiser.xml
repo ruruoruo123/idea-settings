@@ -22,11 +22,6 @@
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="AntRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
@@ -285,11 +280,6 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="JRebel">
-                    <value>
-                      <FeaturePluginData displayName="JRebel" pluginName="JRebel and XRebel for IntelliJ" pluginId="JRebelPlugin" />
                     </value>
                   </entry>
                   <entry key="Spring">
