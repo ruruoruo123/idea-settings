@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="十一" />
+      <item value="successfully" />
       <item value="This logging filter is not highly optimized for now" />
       <item value="Return the Virtual Machine's Class object for the named primitive type" />
       <item value="LITERAL" />
@@ -60,6 +60,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632757116660" />
+    <option name="lastTrimTime" value="1636443622021" />
   </component>
 </application>
