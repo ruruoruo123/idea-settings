@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If the requested length is at least as large as the buffer, and if there is no markreset activity, do not bother to copy the bytes into the local buffer. In this way buffered streams will cascade harmlessly" />
       <item value="successfully" />
       <item value="This logging filter is not highly optimized for now" />
       <item value="Return the Virtual Machine's Class object for the named primitive type" />
@@ -50,7 +51,6 @@
       <item value="priority" />
       <item value="this is ugly, you have a better way speak up" />
       <item value="materialize" />
-      <item value="compromised" />
     </histories>
     <option name="languageScores">
       <map>
