@@ -12,7 +12,7 @@
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="proto" type="protobuf" />
+      <removed_mapping ext="proto" approved="true" type="protobuf" />
     </extensionMap>
   </component>
 </application>
