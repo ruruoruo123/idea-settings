@@ -1,8 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Builds a cache, which either returns an already-loaded value for a given key or atomically computes or retrieves it using the supplied CacheLoader. If another thread is currently loading the value for this key, simply waits for that thread to finish and returns its loaded value. Note that multiple threads can concurrently load values for distinct keys. This method does not alter the state of this CacheBuilder instance, so it can be invoked again to create multiple independent caches. Params: loader – the cache loader used to obtain new values Returns: a cache having the requested features" />
-      <item value="che, which either returns an already-loaded value for a given key or atomically computes or retrieves it using the supplied CacheLoader. If another thread is currently loading the value for this key, simply waits for that thread to finish and returns its loaded value. Note that multiple threads can concurrently load values for distinct keys." />
       <item value="If the requested length is at least as large as the buffer, and if there is no markreset activity, do not bother to copy the bytes into the local buffer. In this way buffered streams will cascade harmlessly" />
       <item value="successfully" />
       <item value="This logging filter is not highly optimized for now" />
@@ -51,15 +49,17 @@
       <item value="Backport" />
       <item value="Illegal" />
       <item value="priority" />
+      <item value="this is ugly, you have a better way speak up" />
+      <item value="materialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641978432602" />
+    <option name="lastTrimTime" value="1642690927811" />
   </component>
 </application>
