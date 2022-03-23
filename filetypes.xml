@@ -4,14 +4,15 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="zmq说明" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
+      <mapping pattern="zmq说明" type="PLAIN_TEXT" />
       <mapping ext="logger" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="proto" approved="true" type="protobuf" />
     </extensionMap>
   </component>
 </application>
