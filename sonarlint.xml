@@ -5,8 +5,8 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://sonar.sf-express.com/sonar" />
-          <token>df9bdf93df9adf99dfc9dfc8df9adfcedfc8df9adf9cdfc8df9adfc8df99dfc8df93df9fdfccdfcfdf9ddf92df92dfc8df9bdf92df98df93df92df99dfcedf99dfcfdf9cdf99df98df93df9edfcbdf92</token>
-          <option name="name" value="sf-sonar" />
+          <token>dfcbdfc8df98dfcfdf98df9ddf98dfc8df9ddf9edf9cdfc9df99df9cdf9adf9cdf9bdf93df9adfccdfc8dfc9df93df9fdf98df9bdf9ddf9fdf9cdf9adfc8df9adf99df9ddf9ddfcedfc8dfc9df9cdf9d</token>
+          <option name="name" value="sdm-sonar" />
         </SonarQubeServer>
       </list>
     </option>
