@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优先" />
       <item value="If the requested length is at least as large as the buffer, and if there is no markreset activity, do not bother to copy the bytes into the local buffer. In this way buffered streams will cascade harmlessly" />
       <item value="successfully" />
       <item value="This logging filter is not highly optimized for now" />
@@ -50,16 +51,15 @@
       <item value="Illegal" />
       <item value="priority" />
       <item value="this is ugly, you have a better way speak up" />
-      <item value="materialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
+        <entry key="CHINESE" value="48" />
         <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647517487025" />
+    <option name="lastTrimTime" value="1656417502523" />
   </component>
 </application>
