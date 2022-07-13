@@ -4,6 +4,11 @@
       <Profile>
         <option name="iconName" value="arrow" />
         <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="userMacSet">
+          <set>
+            <option value="40213392-003" />
+          </set>
+        </option>
         <option name="valid" value="true" />
       </Profile>
     </option>
